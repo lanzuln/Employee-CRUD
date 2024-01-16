@@ -32,7 +32,7 @@
                 <div class="card">
                     <div class="card-header">
                         <div class="row">
-                            <h4>Create employee</h4>
+                            <h4>Add skill</h4>
                         </div>
                         <div class="card-body">
                             <form id="listForm" class="pb-2">
